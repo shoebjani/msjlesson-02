@@ -1,0 +1,2 @@
+var texts = “hI shoeb jAni I am your JavaScript Program”;
+console.log(texts);
